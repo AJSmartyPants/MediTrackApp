@@ -1,4 +1,4 @@
-# MediTrack: The Antidote to Knowing Your Medicines!
+# ![MediTrack Logo](Images/MediTrackAppIcon.png) MediTrack: The Antidote to Knowing Your Medicines!
 
 ## Problem Statement
 
@@ -15,7 +15,7 @@ Failing to manage medications properly can lead to:
 
 ---
 
-## Introducing MediTrack
+## [Introducing MediTrack](https://youtu.be/FPTDmBH5EZg)
 
 MediTrack is an **all-in-one free medicine tracker** designed to make managing your medications **simple and efficient**. It helps you understand the purpose of each medicine, answers health-related questions, and ensures **proper disposal** of expired medications.  
 
